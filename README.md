@@ -8,7 +8,7 @@ Neste curso de Html5 e Css3 iremos do básico ao avançado. Vamos aprender muita
 <br>
 
 ### Ir para a playlist de aulas no Youtube
-(Clique no ícone segurando a tecla "Ctrl" do teclado para abrir o site Youtube em uma nova aba do seu navegador.)
+Você pode clicar no ícone segurando a tecla "Ctrl" do teclado para abrir o site Youtube em uma nova aba do seu navegador.
 
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/watch?v=BVcAuv6AHfY&list=PLkJ_av-2S2p97ejPxUYHbaLfX-XMfZ1F3)](https://www.youtube.com/watch?v=BVcAuv6AHfY&list=PLkJ_av-2S2p97ejPxUYHbaLfX-XMfZ1F3)
 
