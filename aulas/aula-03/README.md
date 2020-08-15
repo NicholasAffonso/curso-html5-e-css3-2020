@@ -4,16 +4,16 @@
 
 <br>
 
-## Aula 01 - Introdução
+## Aula 02 - Extensões para Visual Studio Code
 
-Neste vídeo farei uma apresentação breve e contar mais detalhes sobre o curso de Html5 e Css3.
+Neste vídeo vamos conhecer algumas extensões para o editor Visual Studio Code, que podem ajudar muito na nossa produtividade.
 
 <br>
 
 ### Assista esta aula no Youtube
 Você pode clicar no ícone segurando a tecla ``"Ctrl"`` do teclado para abrir o site Youtube em uma nova aba do seu navegador.
 
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/watch?v=BVcAuv6AHfY&t)](https://www.youtube.com/watch?v=BVcAuv6AHfY&t)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/watch?v=FT4_oKpXvk8)](https://www.youtube.com/watch?v=FT4_oKpXvk8)
 
 <br><hr>
 

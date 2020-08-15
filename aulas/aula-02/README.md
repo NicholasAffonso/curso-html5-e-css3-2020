@@ -4,16 +4,16 @@
 
 <br>
 
-## Aula 01 - Introdução
+## Aula 02 - Ambiente de desenvolvimento
 
-Neste vídeo farei uma apresentação breve e contar mais detalhes sobre o curso de Html5 e Css3.
+Neste vídeo vou apresentar as ferramentas que iremos utilizar para desenvolver os exercícios e projetos no nosso curso de Html5 e Css3.
 
 <br>
 
 ### Assista esta aula no Youtube
 Você pode clicar no ícone segurando a tecla ``"Ctrl"`` do teclado para abrir o site Youtube em uma nova aba do seu navegador.
 
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/watch?v=BVcAuv6AHfY&t)](https://www.youtube.com/watch?v=BVcAuv6AHfY&t)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/watch?v=2JxPg5zg9E8)](https://www.youtube.com/watch?v=2JxPg5zg9E8)
 
 <br><hr>
 

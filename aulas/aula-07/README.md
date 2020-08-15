@@ -4,16 +4,16 @@
 
 <br>
 
-## Aula 01 - Introdução
+## Aula 07 - Listas
 
-Neste vídeo farei uma apresentação breve e contar mais detalhes sobre o curso de Html5 e Css3.
+Nesta aula vamos vamos trabalhar com Listas Ordenadas e Listas Não ordenadas.
 
 <br>
 
 ### Assista esta aula no Youtube
 Você pode clicar no ícone segurando a tecla ``"Ctrl"`` do teclado para abrir o site Youtube em uma nova aba do seu navegador.
 
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/watch?v=BVcAuv6AHfY&t)](https://www.youtube.com/watch?v=BVcAuv6AHfY&t)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/watch?v=Q6Iae1CVZes)](https://www.youtube.com/watch?v=Q6Iae1CVZes)
 
 <br><hr>
 
